@@ -389,7 +389,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Author
 
 **Pavan Shetty H S**
-Electronics & Communication Engineering student
+(Electronics & Communication Engineering student)
 
 ---
 
